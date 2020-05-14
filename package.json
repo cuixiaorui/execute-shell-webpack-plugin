@@ -1,0 +1,20 @@
+{
+  "name": "execute-shell-webpack-plugin",
+  "version": "1.0.0",
+  "description": "webpack 插件，可在 webpack 生命周期注入执行 shell command",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "cuixiarui@126.com",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^25.2.1",
+    "jest": "^26.0.1",
+    "webpack": "^4.43.0"
+  }
+}
